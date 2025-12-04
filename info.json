@@ -1,0 +1,11 @@
+{
+  "name": "real-nauvis",
+  "version": "0.1.0",
+  "title": "Real Nauvis",
+  "author": "SamsonMiodek",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0"
+  ],
+  "description": "Adds realistic climate gradients on Nauvis: green northern forests, dry southern deserts, smooth biome transitions and custom terrain generation."
+}
