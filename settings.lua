@@ -14,7 +14,14 @@ data:extend({
     setting_type = "startup",
     default_value = 20,
     minimum_value = 0,
-    maximum_value = 50,
+    maximum_value = 100,
     order = "a[ore-mixing]-b[percent]"
+  },
+  {
+    type = "bool-setting",
+    name = "rn-stone-regions-enabled",
+    setting_type = "startup",
+    default_value = true,
+    order = "stone-a[regions-enabled]"
   }
 })
